@@ -1,5 +1,5 @@
 
-<img src="https://img.shields.io/badge/Blog-40AEF0?style=flat-square&logo=Blogger&logoColor=white"/> <img src="https://img.shields.io/badge/catalyst8849@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> </br>
+[<img src="https://img.shields.io/badge/Blog-40AEF0?style=flat-square&logo=Blogger&logoColor=white"/>](https://velog.io/@catalyst88) <img src="https://img.shields.io/badge/catalyst8849@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> </br>
 👋 안녕하세요. 주니어 백엔드 개발자 **황순은**입니다. </br>
 
 ## 💪Skills </br>
